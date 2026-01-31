@@ -1,0 +1,1 @@
+Git collaboration enables multiple developers to work on the same project efficiently by using a distributed version control system to manage, track, and merge code changes
