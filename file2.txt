@@ -1,0 +1,1 @@
+A Git branch is an independent line of development in a project's history, allowing developers to safely experiment with new features or bug fixes without affecting the main codebase. 
